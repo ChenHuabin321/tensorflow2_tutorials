@@ -22,6 +22,6 @@ TensorFlow2.0正式版在10月初已经发布，相比于1.X，2.0版的TensorFl
 
 （6）[TensorFlow2.0（六）：数据预处理中的Dataset.ipynb](https://www.cnblogs.com/chenhuabin/p/11669452.html)  
 
-（7）TensorFlow2.0（七）：激活函数.ipynb
+（7）[TensorFlow2.0（七）：激活函数.ipynb](https://www.cnblogs.com/chenhuabin/p/11717580.html)
 
-（8）TensorFlow2.0（八）：误差计算——损失函数总结.ipynb
+（8）[TensorFlow2.0（八）：误差计算——损失函数总结.ipynb](https://www.cnblogs.com/chenhuabin/p/11727212.html)
